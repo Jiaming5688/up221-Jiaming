@@ -6,6 +6,6 @@
 
 ## Dataset 2
 - Name: Traffic Volumes AADT
-- Description: This dataset is from California State Geoportal. It contains traffic volumes of state highways. In my project, this dataset can show which areas have high traffic volume and which areas have congestion.
+- Description: This dataset is from California State Geoportal. It contains the data of traffic volumes on state highways. In my project, this dataset can show which areas have high traffic volume and which areas have congestion.
 - URL link to the source: https://gis.data.ca.gov/datasets/d8833219913c44358f2a9a71bda57f76/explore
 - URL link to the data on repo: https://github.com/Jiaming5688/up221-Jiaming/blob/main/Data/Traffic_Volumes_AADT.csv
